@@ -1,4 +1,4 @@
-#Using an optimized bubble sort.
+# Using an optimized bubble sort.
 
 class BubbleSort
 	def initialize
